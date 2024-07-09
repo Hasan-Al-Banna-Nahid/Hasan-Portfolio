@@ -156,7 +156,7 @@ const Projects = () => {
               </button>
 
               <button className="btn btn-outline btn-info">
-                <FaGithub className="text-[18px] mx-2" />{" "}
+                {/* <FaGithub className="text-[18px] mx-2" />{" "} */}
                 <Link
                   to="https://github.com/Hasan-Al-Banna-Nahid/Doc-House"
                   target="_blank"
