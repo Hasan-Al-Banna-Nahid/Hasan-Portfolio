@@ -24,7 +24,6 @@ import "./Skills.css";
 import AnimatedCursor from "react-animated-cursor";
 import Footer from "../Footer/Footer";
 import Header from "../Header/Header";
-import Particle from "../Layout/Home/Particles";
 
 class Skills extends Component {
   render() {
